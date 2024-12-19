@@ -1,0 +1,2 @@
+# token-metadata
+test coin
