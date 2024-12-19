@@ -1,0 +1,10 @@
+{
+    "name": "Erdemin Gote Coin",
+    "symbol": "BAP",
+    "description": "Kuzene ufak jokes.",
+    "image": "https://pbs.twimg.com/profile_images/1738980913273270272/l-4BybKm_400x400.jpg",
+    "attributes": [
+        {"trait_type": "Color", "value": "Red"},
+        {"trait_type": "Power", "value": "100"}
+    ]
+}
