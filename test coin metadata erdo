@@ -3,7 +3,7 @@
     "symbol": "BAP",
     "uri": "https://raw.githubusercontent.com/doga-creator/token-metadata/main/coin_metadata.json",
     "description": "Kuzene ufak jokes.",
-    "image": "https://ipfs.io/ipfs/QmT7kYtDkLJk9ZkFd9d9qRfqqopVFcRDo2tgdgHxF2fNR8",  // IPFS URL kullanılması önerilir
+    "image": "https://ipfs.io/ipfs/QmT7kYtDkLJk9ZkFd9d9qRfqqopVFcRDo2tgdgHxF2fNR8",
     "attributes": [
         {"trait_type": "Color", "value": "Red"},
         {"trait_type": "Power", "value": "100"}
